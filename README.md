@@ -1,7 +1,9 @@
 ## Contact info: <br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-alves-barbosa-318048202) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lucasalves94@gmail.com)
 
-Graduating in systems analysis and development, focused on front-end. Passionate about technology, games, music and constant evolution.
+Graduating in systems analysis and development, focused on front-end. 
+
+Passionate about technology, games, music and constant evolution.
 
 ## Main technologies:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
