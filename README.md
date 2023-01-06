@@ -1,4 +1,4 @@
-Graduating in systems analysis and development, focused on front-end and test automation. Passionate about technology, games, music and constant evolution.
+Graduating in systems analysis and development, focused on front-end. Passionate about technology, games, music and constant evolution.
 
 Main technologies:
 - React
