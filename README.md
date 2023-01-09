@@ -3,7 +3,7 @@
 
 Graduating in systems analysis and development, focused on front-end. 
 
-Passionate about technology, games, music and constant evolution.
+Passionate about technology, games, music and incessant evolution.
 
 ## Main technologies:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
