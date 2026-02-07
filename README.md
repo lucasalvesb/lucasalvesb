@@ -5,6 +5,32 @@ Fullstack developer.
 
 Passionate about technology, games, music and continuous evolution.
 
+
+## SpinEverything  
+https://spineverything.com/
+
+A collection of randomization tools designed for quick decisions, games, and productivity. 
+The goal of SpinEverything is to provide simple, frictionless tools that work instantly on any device without requiring downloads or sign-ups.
+
+---
+
+## DevBlacksmith  
+http://devblacksmith.com/
+
+A toolbox for developers who want fast, no-fluff utilities without digging through multiple platforms.
+
+Built to save developers time by centralizing commonly needed tools in one place and a soon-to-be blogpost.
+
+---
+
+## Calculadora.help  
+http://calculadora.help/
+
+A growing hub of financial and productivity calculators tailored primarily for the Brazilian public.
+
+The mission is to make financial decision-making clearer through accessible and localized tools.
+
+
 ## Main technologies:
 
 ### Frameworks
