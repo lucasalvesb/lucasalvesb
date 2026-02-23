@@ -9,8 +9,9 @@ Passionate about technology, games, music and continuous evolution.
 ## SpinEverything  
 https://spineverything.com/
 
-A collection of randomization tools designed for quick decisions, games, and productivity. 
-The goal of SpinEverything is to provide simple, frictionless tools that work instantly on any device without requiring downloads or sign-ups.
+This started as a collection of randomization tools designed for quick decisions, games, and productivity, but it evolved to be much more than that.
+
+It has become a teacher hub based on my previous teaching experience with some tools I wish I had back when I was teaching. 
 
 ---
 
